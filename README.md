@@ -17,3 +17,7 @@ Images from dataset:
 
 Images by clusters:
 ![image](https://user-images.githubusercontent.com/25502260/126874105-3accc6e7-2272-45d8-b98a-7a8b7fedc1b9.png)
+
+Metrics:
+* ```RandIndex: 0.7655172413793103```
+* ```Adj RandIndex: 0.06773963104593016```
