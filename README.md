@@ -11,3 +11,9 @@ Idea behind the solution is next:
 3. Perform KMeans to assign clusters to images;
 4. Apply steps 1-2 to test data, predict clusters, based on results from step 3;
 5. Compare results from step 4 to manual results.
+
+Images from dataset:
+![image](https://user-images.githubusercontent.com/25502260/126874034-f1b86d95-966c-452d-9e12-61a7a8cc1fc5.png)
+
+Images by clusters:
+![image](https://user-images.githubusercontent.com/25502260/126874105-3accc6e7-2272-45d8-b98a-7a8b7fedc1b9.png)
