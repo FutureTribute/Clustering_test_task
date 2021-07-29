@@ -2,7 +2,7 @@
 
 Data: mostly photos from my phone gallery, but some photos from public resources
 
-As the task was to cluster some images, labels provided in the dataset are completely ignored.
+As the task was to cluster some images, labels provided in the dataset are completely ignored when performing KMeans.
 
 Since the task is based around mobile phone gallery, using MobileNet seems like a best solution because of its good performance and, most importantly, its size. 
 
