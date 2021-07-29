@@ -14,12 +14,9 @@ Idea behind the solution is next:
 3. Perform KMeans with different values of n_clusters to assign clusters to images;
 4. Select best model from step 4 based on silhouette_score and visualize results.
 
-Images from dataset:
-![image](https://user-images.githubusercontent.com/25502260/126874034-f1b86d95-966c-452d-9e12-61a7a8cc1fc5.png)
+Training performance:
+![image](https://user-images.githubusercontent.com/25502260/127489271-bdec53e7-f18e-45b9-9e01-09f973904d0d.png)
 
 Images by clusters:
-![image](https://user-images.githubusercontent.com/25502260/126874105-3accc6e7-2272-45d8-b98a-7a8b7fedc1b9.png)
+![image](https://user-images.githubusercontent.com/25502260/127489138-6b4171eb-7e2f-4b87-b83b-10e5b2e44cac.png)
 
-Metrics:
-* ```RandIndex: 0.7655172413793103```
-* ```Adj RandIndex: 0.06773963104593016```
